@@ -1,0 +1,15 @@
+{
+  "name": "ekaurgre/328/grc-student",
+  "authors": [
+    {
+      "name": "Ekampreet Kaur",
+      "email": "ekaur@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  },
+  "autoload": {
+    "classmap": ["model/", "controller/", "classes/"]
+  }
+}
